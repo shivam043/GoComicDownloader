@@ -1,3 +1,6 @@
+#-----------------Author-Shivam Singh
+#------------------------Copyright
+
 import urllib
 from bs4 import BeautifulSoup
 import os
