@@ -65,4 +65,4 @@ print("Completed downloading  d:")
 
 
 
-#urllib.urlretrieve(tag['data-image'], "00000002.jpg")
+
